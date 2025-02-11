@@ -27,3 +27,4 @@ Add documentation
 Change theme color
 Remove unused imports
 Refactor core logic
+Improve performance
