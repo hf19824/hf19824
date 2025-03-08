@@ -19,3 +19,4 @@ Update dependencies
 Refactor core logic
 Update dependencies
 Fix typo in README
+Improve logging
