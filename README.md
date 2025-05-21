@@ -23,3 +23,4 @@ Improve logging
 Update API endpoint
 Rewrite function Y
 Remove unused imports
+Add documentation
